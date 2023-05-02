@@ -1,7 +1,5 @@
 # Further references
 
-Further References
-
 Al Baghal, T., Sloan, L., Jessop, C., Williams, M. L., & Burnap, P. (2020). Linking Twitter and Survey Data: The Impact of Survey Mode and Demographics on Consent Rates Across Three UK Studies. Social Science Computer Review, 38(5), 517–532. https://doi.org/10.1177/0894439319828011
 
 Al Baghal, T., Wenz, A., Sloan, L., & Jessop, C. (2021). Linking Twitter and survey data: asymmetry in quantity and its impact. EPJ Data Science, 10(1). https://doi.org/10.1140/epjds/s13688-021-00286-7
